@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-<<<<<<< HEAD
 """13-pascal_triangle.py"""
 
 
@@ -8,15 +7,6 @@ def pascal_triangle(n):
     the Pascals triangle of n
     """
 
-=======
-"""Defines a Pascal's Triangle function."""
-
-
-def pascal_triangle(n):
-    """Represent Pascal's Triangle of size n.
-    Returns a list of lists of integers representing the triangle.
-    """
->>>>>>> 0f9335aeefad229f6daf32095d498cf8bbd11781
     if n <= 0:
         return []
 
